@@ -1,0 +1,6 @@
+{
+  "name": "Voltech Dynamics - Taller EV & Expedientes",
+  "description": "Plataforma industrial para taller de vehículos eléctricos: recepción, diagnóstico trifásico, banco dinamométrico, telemetría y módulo de inspección con evidencia fotográfica obligatoria.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
